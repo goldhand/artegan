@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:16:45Z</date>
+		<key>actualSize</key>
+		<integer>36170</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:16:45Z</date>
+		<key>createDate</key>
+		<date>2007-10-26T23:07:16Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:12:10Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>2872BCB7-F04D-49B4-88BE-042AA0F4BDE4</string>
+		<key>lastModifiedDate</key>
+		<date>2007-10-26T23:07:16Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/images/pd/old/newport-old.jpg</string>
+		<key>originalSize</key>
+		<integer>36170</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>943868237</integer>
+				<key>fileType</key>
+				<integer>1246774599</integer>
+				<key>id</key>
+				<string>A8D55C0B-1102-47A2-8BF5-4116564EE44C</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

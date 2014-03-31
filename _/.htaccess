@@ -1,0 +1,4 @@
+rewriteengine on
+rewritecond %{HTTP_HOST} ^www.springhillseniorliving.com$ [OR]
+rewritecond %{HTTP_HOST} ^springhillseniorliving.com$
+rewriterule ^ "http\:\/\/www\.artegan\.com\/" [R=301,L] #4cfd5bd6a0110

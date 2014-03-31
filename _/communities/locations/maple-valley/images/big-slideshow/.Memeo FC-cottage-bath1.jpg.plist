@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:20:49Z</date>
+		<key>actualSize</key>
+		<integer>26213</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:15:47Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:32:11Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:11:28Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>69655AFE-DC54-4FF4-A18F-DDEEA35EC892</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:32:11Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/communities/locations/maple-valley/images/big-slideshow/FC-cottage-bath1.jpg</string>
+		<key>originalSize</key>
+		<integer>26213</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>C4D4E14A-57DA-42F4-B8C1-18590D7C5172</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

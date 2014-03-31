@@ -1,0 +1,108 @@
+#wrapper-shadow, 
+#left-col, 
+#right-col, 
+#top_menu li a, 
+#top_menu a, 
+#top_menu li,
+#content,
+#left-nav,
+#share-box,
+#share-box div
+  { 
+	zoom: 1;
+	}
+
+body {
+	
+
+
+	}
+
+#wrapper-shadow  { 
+	display: inline;
+	haslayout:true;
+	width: 1017px;
+
+	
+	}
+
+	
+#black-stripe2 {
+	left:0px;
+	width:auto;
+
+	}
+
+#left-col {
+	margin: 0;
+	padding: 0;
+	haslayout:true;
+	display: inline;
+	}
+
+#right-col {
+	margin: 0;
+	padding: 0;
+	haslayout:true;
+	display: inline;
+	}
+
+li#first { 
+	width: auto; }
+
+li#second { 
+	margin-right: 7%; 
+	margin-left: 13%; 
+	width: auto }
+
+li#third { 
+	margin-right: 15px; 
+	float: right;
+	width: auto }
+
+#top_menu { 
+	height: 30px;
+	margin: 0 auto;
+	}
+
+#top_menu li li a {
+	padding: 0; 	
+	}
+
+#rule-blue { 
+	font-size: 0;
+	padding: 0;
+	overflow: hidden;
+	}
+
+#top_menu { 
+	background: #A89339 url(http://www.artegan.com/images/common/top-menu-IE.gif) left bottom;
+	background-repeat: repeat-x;	
+	}
+
+.homepage #top_menu { 
+	background: transparent;	
+	}
+
+#top_menu li ul { 
+	width: 10.5em; 
+	top: 100%; 
+	line-height:16px;
+	}
+
+
+
+#white-stripe {
+	position: absolute;
+	top:0;
+	bottom: 0px;
+	left: 0px;
+	z-index:5;
+	width: 2px;
+	min-height: 100%;
+	background-color:#fff;
+	margin: 0 0 0 218px;
+	padding: 0;
+	border: solid #000;
+	border-width: 0;
+	}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:15:40Z</date>
+		<key>actualSize</key>
+		<integer>26625</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:15:40Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:31:17Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:10:54Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>2C2A6F1F-048F-4126-8F6F-3F9CB0C823FF</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:31:17Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/communities/locations/colville/images/slides/dining.jpg</string>
+		<key>originalSize</key>
+		<integer>26625</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>229268A2-9184-43BE-8179-5E1C3A6B718C</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

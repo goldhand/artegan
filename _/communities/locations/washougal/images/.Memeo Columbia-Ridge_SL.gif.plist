@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:16:16Z</date>
+		<key>actualSize</key>
+		<integer>1961</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:16:16Z</date>
+		<key>createDate</key>
+		<date>2009-10-07T04:38:58Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:11:37Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>E5AC921B-BE33-42A6-8F32-F1B3FDFB21CC</string>
+		<key>lastModifiedDate</key>
+		<date>2009-10-07T04:38:59Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/communities/locations/washougal/images/Columbia-Ridge_SL.gif</string>
+		<key>originalSize</key>
+		<integer>1961</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>1298486113</integer>
+				<key>fileType</key>
+				<integer>1195984486</integer>
+				<key>id</key>
+				<string>B9F50C82-F1A5-4D08-AFDE-1FF103732A05</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

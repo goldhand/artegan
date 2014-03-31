@@ -1,0 +1,62 @@
+/*-------------------------------------------*/
+/*               Site Search                 */
+/*-------------------------------------------*/
+
+div.searchresults 
+{
+	border-top:1px solid #8D95B8;
+	padding-top:5px;
+}
+
+div.searchads 
+{
+	width:120px;
+	float:right;
+	display:inline;
+}
+div.searchresults dl 
+{
+	
+	padding:0 10px;
+}
+div.searchresults dt 
+{
+	font-weight:bold;
+}
+div.searchresults dd
+{
+	padding-left:10px;
+	padding-bottom:10px;
+}
+div.searchresults span.highlight 
+{
+	font-weight:bold;
+}
+
+div.searchresults span.searchurl 
+{
+	display:block;	
+	color:#646D8E;
+}
+div.searchheader 
+{
+	width:100%;
+	height:20px;
+	
+}
+
+div.searchheader span.left
+{
+	float:left;
+	display:inline;
+	width:45%;
+	padding-left:10px;
+}
+
+div.searchheader span.right
+{
+	float:right;
+	display:inline;
+	width:48%;
+	text-align:right;
+}

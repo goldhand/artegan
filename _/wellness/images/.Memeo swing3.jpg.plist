@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:17:14Z</date>
+		<key>actualSize</key>
+		<integer>46861</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:17:15Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:33:14Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:12:31Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>D2957E02-30EA-489C-98BF-010AA787D636</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:33:14Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/wellness/images/swing3.jpg</string>
+		<key>originalSize</key>
+		<integer>46861</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>75147B1B-4C16-47A0-98D3-F4698F59EF63</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

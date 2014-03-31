@@ -1,0 +1,181 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Postcard Direct Examples</title>
+
+<style type="text/css">
+
+body {	font-family: verdana,arial, helvetica, sans-serif; 
+	background-color: white; 
+	margin-left: 25px;
+	margin-right: 25px;
+	font-size: 12px
+}
+
+
+.title { font-size: 20px }
+
+.pdtable {   font-size: 12px; 
+             background-color: #bdc8e9;
+             border: 1px solid black;
+             color: #555458;
+}
+
+.pdtable1 { font-size: 12px }
+
+
+a:hover { color: red; background-color: #ffdda2}
+a:link { text-decoration: none; color: blue}
+a:active {text-decoration: none; color: blue}
+a:visited {text-decoration: none; color: blue}
+
+</style>
+
+</head>
+
+<body>
+
+<div align="center">
+<div class="title">Postcard Direct Examples</div>
+<hr width="50%">
+
+<p>This page is intended to show you a range of different ways you can use PD and give you ideas of how you can use it on your site.</p>
+
+<p>If you have installed PD in non-default locations, or you have renamed the scripts, you will need to update all the links for these examples to work.</p>
+
+<table border="0" cellpadding="6" cellspacing="6" class="pdtable" width="50%">
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example One</i></td>
+ 
+ <td>This example uses a simple thumbnail image, with the postcard using the full sized image.  This is the most common way of using PD.  If no form is specified in the link, the default form (form-default.txt) is used.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-basic.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Two</i></td>
+ 
+ <td>This example is the same as Example One, but using the <code>form-basic.txt</code> form template.  The basic template has the options for music and postcard designs removed.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-side.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Three</i></td>
+ 
+ <td>This example is same as Example One, but using the <code>form-side.txt</code> form template.  The default form template has the form below the image.  The <code>form-side.txt</code> form template has the form to the side of the image.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-bcc.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Four</i></td>
+ 
+ <td>This example is same as Example One, but using the <code>form-bcc.txt</code> form template.  This form has an additional field to allow the selection of a bcc option for multiple recipients.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-traditional.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Five</i></td>
+ 
+ <td>This example is same as Example One, but using the <code>form-traditional.txt</code> form template.  This form uses a hidden field to select the sending mode as "traditional".  Note that this option can be set globally in the configuration file.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-fields.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Six</i></td>
+ 
+ <td>This example is same as Example One, but using the <code>form-fields.txt</code> form template.  This template shows an example of using additional fields.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-colours.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Seven</i></td>
+ 
+ <td>This example is similar to example six, but using the <code>form-colours.txt</code> form template.  This template shows an example of allowing a user to set the background and text colour.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-date.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Eight</i></td>
+ 
+ <td>This example uses the <code>form-date.txt</code> form template.  This template allows a user to send the card at a later date.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+ <td align=center><a href="/cgi-bin/pd/pd.cgi?image=/pd/images/photo.jpg&title=Example+Postcard&form=form-all.txt"><img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100" alt="Click to send a postcard"></a><br><i>Example Nine</i></td>
+ 
+ <td>This example uses the <code>form-all.txt</code> form template.  This template uses most of the available features on one form.</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+</table>
+
+
+<p></p>
+
+<hr width="70%">
+
+<p>Some people prefer to allow users to select their image with radio buttons.  This involves using a form to call <code>/cgi-bin/pd/pd.cgi</code></p>
+
+<form action="/cgi-bin/pd/pd.cgi" method="post">
+
+<table border="0" cellpadding="6" cellspacing="6" class="pdtable" width="50%">
+<tr align="center">
+ <td>
+  <img src="/pd/images/photo-tn.jpg" border="0" width="140" height="100"><br>
+  Image One<br>
+  <input type="radio" name="image" value="/pd/images/photo.jpg">
+ </td>
+ <td>
+  <img src="/pd/images/photo1-tn.jpg" border="0" width="140" height="100"><br>
+  Image Two<br>
+  <input type="radio" name="image" value="/pd/images/photo1.jpg">
+ </td>
+</tr>
+<tr><td colspan="2" align="center">
+ <input type="submit" value="Next step">
+</td></tr>
+</table>
+
+</form>
+
+<hr width="70%">
+
+<p>If the image uploads have been enabled (disabled by default), the form is invoked with the URL <a href="/cgi-bin/pd/pd.cgi?upload=yes">/cgi-bin/pd/pd.cgi?upload=yes</a></p>
+
+<p>You can edit all of the templates and configurations via the PD Admin Interface available at <a href="/cgi-bin/pd/pdadmin.cgi">/cgi-bin/pd/pdadmin.cgi</a>.</p>
+
+<hr width="70%">
+
+<table border="0" width="50%" class="pdtable1">
+
+<tr><td>
+The Postcard Direct documentation is available at <a href="http://postcard-direct.com/doco.html">http://postcard-direct.com/doco.html</a>
+</td></tr>
+
+<tr><td>
+The Postcard Direct FAQ is available at <a href="http://postcard-direct.com/faq.html">http://postcard-direct.com/faq.html</a>
+
+<tr><td>
+The Postcard Direct Support Forum is at <a href="http://www.ginini.com/support/">http://www.ginini.com/support/</a>
+
+</table>
+
+
+<p></p>
+
+<hr width="80%">
+<p>A product of <a href="http://postcard-direct.com/">Postcard Direct</a></p>
+
+<img src="images/pdicon.jpg" alt="Postcard Direct">
+</div>
+</body>
+</html>
+

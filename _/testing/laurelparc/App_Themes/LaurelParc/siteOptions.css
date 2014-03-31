@@ -1,0 +1,60 @@
+ul#site_options 
+{
+	
+	text-align:left;
+	list-style:none;
+	padding:67px 0 0 0;
+	background: transparent url(img/siteoptions.jpg) no-repeat;
+	height:155px;
+	width:174px;
+}
+
+ul#site_options li 
+{
+	margin-right:10px;
+	display:block;
+	padding:7px 0px 0 10px;
+}
+
+
+ul#site_options a 
+{
+	color:#fff;
+	height:20px;
+	padding:4px 0;
+	font-size:0.8em;
+}
+
+ul#site_options li.tell a 
+{
+	padding-left:20px;
+	background:transparent url(img/icons/silver/friend.gif) center left no-repeat;
+}
+
+ul#site_options li.add a 
+{
+	padding-left:20px;
+	background:transparent url(img/icons/silver/favorites.gif) center left no-repeat;
+}
+ul#site_options li.access a 
+{
+	padding-left:20px;
+	background:transparent url(img/icons/silver/info.gif) center left no-repeat;
+}
+ul#site_options li.print a 
+{
+	padding-left:20px;
+	background:transparent url(img/icons/silver/print.gif) center left no-repeat;
+}
+
+ul#site_options li.map a 
+{
+	padding-left:20px;
+	background:transparent url(img/icons/silver/map.gif) center left no-repeat;
+}
+
+ul#site_options li.brochure a 
+{
+	padding-left:20px;
+	background:transparent url(img/icons/silver/request.gif) center left no-repeat;
+}

@@ -1,0 +1,20 @@
+# robots.txt
+User-agent: *
+Disallow: /app_code/
+Disallow: /app_support/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /rb_documentation/
+Disallow: /rb_logs/
+Disallow: /rb_tools/
+Disallow: /Resources/
+Disallow: /Setup/
+Disallow: /Web References/
+Disallow: /DesktopModules/Admin/ 
+Disallow: /site/1/home.aspx
+Disallow: /site/1/default.aspx
+Disallow: /site/0/home.aspx
+Disallow: /site/0/default.aspx
+
+Disallow: /Calendar/
+Disallow: /calendar/

@@ -1,0 +1,688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"out",
+				"outSplitsSplits"
+			],
+			[
+				"ou",
+				"outSplitsSplits"
+			],
+			[
+				"Ac",
+				"AccountPostSerializer	class"
+			],
+			[
+				"height",
+				"height_field"
+			],
+			[
+				"pr",
+				"product_type	forflow"
+			],
+			[
+				"consi",
+				"consitency	forflow"
+			],
+			[
+				"Genr",
+				"GenericProduct	import"
+			],
+			[
+				"filter",
+				"filterInbox"
+			],
+			[
+				"mess",
+				"messageFilters"
+			],
+			[
+				"Mes",
+				"MessagePostSerializer	import"
+			],
+			[
+				"M",
+				"MessagePostSerializer	class"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"prod",
+				"productType"
+			],
+			[
+				"productT",
+				"productTypeDisplayClasses"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"glo",
+				"global-search-dropdown"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"pan",
+				"panel-compose"
+			],
+			[
+				"sel",
+				"selectNoStrain"
+			],
+			[
+				"Gener",
+				"GenericProductForm	class"
+			],
+			[
+				"Ex",
+				"ExtractionMedium	import"
+			],
+			[
+				"type",
+				"type_model	forflow"
+			],
+			[
+				"Ge",
+				"GenericProductDetailSerializer	class"
+			],
+			[
+				"Gen",
+				"GenericProductListSerializer	class"
+			],
+			[
+				"strainO",
+				"strainOrderOption"
+			],
+			[
+				"pa",
+				"paginate_by"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"accou",
+				"account_legal_name"
+			],
+			[
+				"Pro",
+				"ProductDetailSerializer	class"
+			],
+			[
+				"Prod",
+				"ProductForm	class"
+			],
+			[
+				"Pr",
+				"ProductPartialCreateView	class"
+			],
+			[
+				"Mod",
+				"ModelForm	ModelForm"
+			],
+			[
+				"Pu",
+				"PurchaseRequestPartialCreateView	class"
+			],
+			[
+				"Sell",
+				"SellRequestPartialCreateView	class"
+			],
+			[
+				"pro",
+				"product_id	statement"
+			],
+			[
+				"node-",
+				"node-decision"
+			],
+			[
+				"A",
+				"AccountPartialDynamicView	class"
+			],
+			[
+				"temp",
+				"template_name	statement"
+			],
+			[
+				"acc",
+				"accountGlobalService"
+			],
+			[
+				"strain",
+				"strainGlobalService"
+			],
+			[
+				"Acc",
+				"AccountViewSet	class"
+			],
+			[
+				"member",
+				"member_legal_name	statement"
+			],
+			[
+				"get",
+				"get_user_model	import"
+			],
+			[
+				"Location",
+				"location	statement"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"De",
+				"DEBUG	statement"
+			],
+			[
+				"is_c",
+				"is_chapter_admin"
+			],
+			[
+				"frat",
+				"fraternity_title"
+			],
+			[
+				"post",
+				"post_to_facebook"
+			],
+			[
+				"Ca",
+				"CAPTION"
+			],
+			[
+				"S",
+				"SITE_ID"
+			],
+			[
+				"get_f",
+				"get_fb_access_token"
+			],
+			[
+				"so",
+				"social_account_added"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"Fe",
+				"FeedbackForm"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"col-s",
+				"col-sm-offset-4"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package ina",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/goldhand/projects/django-nufiles/django-nufiles/setup.py",
+		"/Users/goldhand/projects/django-nufiles/django-nufiles/.travis.yml",
+		"/Users/goldhand/projects/django-nufiles/django-nufiles/.gitignore",
+		"/Users/goldhand/projects/ccx/ccx/config/settings.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/models.py",
+		"/Users/goldhand/projects/ccx/ccx/messages/serializers.py",
+		"/Users/goldhand/projects/ccx/ccx/products/models.py",
+		"/Users/goldhand/projects/ccx/ccx/products/serializers.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/forms.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/templates/purchase_requests/partials/list.html",
+		"/Users/goldhand/projects/ccx/ccx/products/static/app/js/controllers/productControllers.js",
+		"/Users/goldhand/projects/ccx/ccx/app_base/static/app/js/controllers.js",
+		"/Users/goldhand/projects/ccx/ccx/users/models.py",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/generic_products/partials/select.html",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/static/app/js/controllers/requestControllers.js",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/static/app/js/apps/requestApp.js",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/serializers.py",
+		"/Users/goldhand/projects/ccx/ccx/users/forms.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/views.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/serializers.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/templates/sell_requests/partials/list.html",
+		"/Users/goldhand/projects/ccx/ccx/messages/static/app/js/controllers/messageControllers.js",
+		"/Users/goldhand/projects/ccx/ccx/messages/templates/messages/partials/detail.html",
+		"/Users/goldhand/projects/ccx/ccx/messages/static/app/js/apps/messageApp.js",
+		"/Users/goldhand/projects/ccx/ccx/users/serializers.py",
+		"/Users/goldhand/projects/ccx/ccx/products/management/commands/import_product_fixtures.py",
+		"/Users/goldhand/projects/ccx/ccx/products/management/commands/create_generic_products.py",
+		"/Users/goldhand/projects/ccx/ccx/products/management/commands/create_products.py",
+		"/Users/goldhand/projects/ccx/ccx/strains/models.py",
+		"/Users/goldhand/projects/ccx/ccx/strains/managers.py",
+		"/Users/goldhand/projects/ccx/ccx/products/views.py",
+		"/Users/goldhand/projects/ccx/ccx/dominances/models.py",
+		"/Users/goldhand/projects/ccx/ccx/dominances/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/budsizes/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/consistencies/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/strains/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/extractionmediums/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/edibles/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/tinctures/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/topicals/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/paraphernalia/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/app_base/static/app/js/app.js",
+		"/Users/goldhand/projects/ccx/ccx/messages/static/app/js/directives/messageDirectives.js",
+		"/Users/goldhand/projects/ccx/ccx/app_base/templates/app_base/base.html",
+		"/Users/goldhand/projects/ccx/ccx/templates/base.html",
+		"/Users/goldhand/projects/ccx/ccx/static/css/project.css",
+		"/Users/goldhand/projects/ccx/ccx/app_base/templates/app_base/partials/top-panel.html",
+		"/Users/goldhand/projects/ccx/ccx/messages/views.py",
+		"/Users/goldhand/projects/ccx/ccx/messages/static/app/js/filters/messageFilters.js",
+		"/Users/goldhand/projects/ccx/ccx/messages/static/app/js/services/messageServices.js",
+		"/Users/goldhand/projects/ccx/ccx/messages/templates/messages/partials/list.html",
+		"/Users/goldhand/projects/ccx/ccx/app_base/views.py",
+		"/Users/goldhand/projects/ccx/ccx/messages/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/strains/templates/strains/partials/list.html",
+		"/Users/goldhand/projects/ccx/ccx/messages/forms.py",
+		"/Users/goldhand/projects/ccx/ccx/partials/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/messages/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/messages/permissions.py",
+		"/Users/goldhand/projects/ccx/ccx/api_root/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/config/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/messages/partials/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/messages/partials/views.py",
+		"/Users/goldhand/projects/ccx/requirements/base.txt",
+		"/Users/goldhand/projects/ccx/README.rst",
+		"/Users/goldhand/projects/ccx/ccx/strains/templates/strains/partials/detail.html",
+		"/Users/goldhand/projects/ccx/ccx/app_base/templates/app_base/partials/global-search.html",
+		"/Users/goldhand/projects/ccx/ccx/products/forms.py",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/products/partials/product-type-display.html",
+		"/Users/goldhand/projects/ccx/ccx/products/static/app/js/directives/productDirectives.js",
+		"/Users/goldhand/projects/ccx/ccx/edibles/models.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/static/app/js/controllers/accountControllers.js",
+		"/Users/goldhand/projects/ccx/ccx/accounts/static/app/js/apps/accountApp.js",
+		"/Users/goldhand/projects/ccx/ccx/accounts/templates/accounts/partials/list.html",
+		"/Users/goldhand/projects/ccx/ccx/app_base/static/app/js/directives.js",
+		"/Users/goldhand/projects/ccx/ccx/app_base/static/app/js/services.js",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/generic_products/partials/create.html",
+		"/Users/goldhand/projects/ccx/ccx/strains/static/app/js/controllers/strainControllers.js",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/generic_products/partials/product-type-display.html",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/generic_products/partials/select_flower.html",
+		"/Users/goldhand/projects/ccx/ccx/strains/serializers.py",
+		"/Users/goldhand/projects/ccx/ccx/budsizes/models.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/models.py",
+		"/Users/goldhand/projects/ccx/ccx/products/partials/generic_products/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/templates/purchase_requests/partials/create.html",
+		"/Users/goldhand/projects/ccx/ccx/products/partials/generic_products/views.py",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/generic_requests/partials/create.html",
+		"/Users/goldhand/projects/ccx/ccx/strains/static/app/js/services/strainServices.js",
+		"/Users/goldhand/projects/ccx/ccx/app_base/templates/app_base/index.html",
+		"/Users/goldhand/projects/ccx/ccx/products/partials/products/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/products/partials/products/views.py",
+		"/Users/goldhand/projects/ccx/ccx/products/partials/views.py",
+		"/Users/goldhand/projects/ccx/ccx/products/partials/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/products/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/consistencies/models.py",
+		"/Users/goldhand/projects/ccx/ccx/extractionmediums/models.py",
+		"/Users/goldhand/projects/ccx/ccx/tinctures/models.py",
+		"/Users/goldhand/projects/ccx/ccx/paraphernalia/models.py",
+		"/Users/goldhand/projects/ccx/ccx/topicals/models.py",
+		"/Users/goldhand/projects/ccx/ccx/strains/views.py",
+		"/Users/goldhand/projects/ccx/ccx/app_base/templates/app_base/partials/bootstrap-demo.html",
+		"/Users/goldhand/projects/ccx/ccx/accounts/templates/accounts/partials/detail.html",
+		"/Users/goldhand/projects/ccx/ccx/strains/static/app/js/apps/strainApp.js",
+		"/Users/goldhand/projects/ccx/ccx/accounts/templates/accounts/partials/base.html",
+		"/Users/goldhand/projects/ccx/ccx/app_base/templates/app_base/partials/left-panel.html",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/products/partials/list.html",
+		"/Users/goldhand/projects/ccx/ccx/strains/management/commands/importstrains.py",
+		"/Users/goldhand/projects/ccx/ccx/products/static/app/js/apps/productApp.js",
+		"/Users/goldhand/projects/ccx/ccx/products/templates/products/partials/create.html",
+		"/Users/goldhand/projects/ccx/ccx/strains/forms.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/templates/purchase_requests/partials/detail.html",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/templates/sell_requests/partials/detail.html",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/static/app/js/services/requestServices.js",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/static/app/js/directives/requestDirectives.js",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/static/app/js/filters/requestFilters.js",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/purchase_requests/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/purchase_requests/views.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/sell_requests/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/sell_requests/views.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/templates/sell_requests/partials/create.html",
+		"/Users/goldhand/projects/ccx/ccx/accounts/admin.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/views.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/purchase_requests/__init__.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/sell_requests/__init__.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/partials/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/partials/urls.py",
+		"/Users/goldhand/projects/ccx/ccx/locations/models.py",
+		"/Users/goldhand/projects/ccx/ccx/locations/serializers.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/management/commands/importbusinesses.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*args, **kwargs",
+			"button",
+			"  </button>",
+			"class=\"btn\"",
+			"onclick",
+			"-{{ file.id }}",
+			"demo",
+			"mp3",
+			"nump3",
+			"mp3",
+			"nump3",
+			"Mp3",
+			"nuFile",
+			"mp3",
+			"Mp3",
+			"mp3",
+			"Mp3",
+			"mp3",
+			"Mp3",
+			"outSplitsSplits",
+			"[0]",
+			".charAt(0)",
+			"input",
+			"[0]",
+			"outSplit",
+			"out_split",
+			"account_name",
+			"strain",
+			"Strain",
+			"strain",
+			"Strain",
+			"state",
+			"contact_name",
+			"sell",
+			"last_name",
+			"purchase",
+			"s.t",
+			"purchase",
+			"Purchase",
+			"sell",
+			"purchase",
+			"reque",
+			"request",
+			"requests",
+			"message",
+			"Message",
+			"prepMessa",
+			"phone",
+			"value=\"",
+			"to_user",
+			"purchase",
+			"purchaseRequests",
+			"Purchase",
+			"label",
+			"models.ForeignKey(",
+			"get_",
+			"oman",
+			"\",",
+			"name= u\"%s %s\" % (strain.name, product_type)",
+			"f product_type",
+			")\n",
+			"GenericProduct.ob",
+			")\n",
+			")",
+			".create(",
+			"clone",
+			"shake",
+			"tincture",
+			"edible",
+			"conentrate",
+			"Topical",
+			"BudSize",
+			"Edible",
+			"ExtractionMedium",
+			"Account",
+			"type_choice",
+			"http://127.0.0.1:8000/",
+			"to_user",
+			"product",
+			" \"phone\": \"\"",
+			" }]}",
+			"{[{ ",
+			"    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"3 Kings\",\"type\":\"Flower\",\"brand\":\"MMJ AMERICA GOLDEN TRIANGLE \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":8,\"visible\":false,\"id\":0},\n    {\"qty\":\"400\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"20000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"707 Headband\",\"type\":\"Concentrate\",\"brand\":\"ACME SMOKE LLC \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":7,\"visible\":false,\"id\":1},\n    {\"qty\":\"550\",\"unit_of_measure\":\"Ounces\",\"max_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Banana Candy\",\"type\":\"Flower\",\"brand\":\"CANNABICARE INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":4,\"visible\":false,\"id\":2},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Grape Crush\",\"type\":\"Edible\",\"brand\":\"COLORADOS BEST INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":9,\"visible\":false,\"id\":3},\n    {\"qty\":\"50\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Hempstar\",\"type\":\"Flower\",\"Concentrate\":\"MED STOP LLP\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":6.5,\"visible\":false,\"id\":4},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Kaboom\",\"type\":\"Flower\",\"brand\":\"MILE HIGH HOLISTICS LLC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":8,\"visible\":false,\"id\":5},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"3 Kings\",\"type\":\"Flower\",\"brand\":\"MMJ AMERICA GOLDEN TRIANGLE \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":8,\"visible\":false,\"id\":6},\n    {\"qty\":\"400\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"20000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"707 Headband\",\"type\":\"Concentrate\",\"brand\":\"ACME SMOKE LLC \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":7,\"visible\":false,\"id\":7},\n    {\"qty\":\"550\",\"unit_of_measure\":\"Ounces\",\"max_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Banana Candy\",\"type\":\"Flower\",\"brand\":\"CANNABICARE INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":4,\"visible\":false,\"id\":8},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Grape Crush\",\"type\":\"Edible\",\"brand\":\"COLORADOS BEST INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":9,\"visible\":false,\"id\":9},\n    {\"qty\":\"50\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Hempstar\",\"type\":\"Flower\",\"Concentrate\":\"MED STOP LLP\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":6.5,\"visible\":false,\"id\":10},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"max_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Kaboom\",\"type\":\"Flower\",\"brand\":\"MILE HIGH HOLISTICS LLC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":8,\"visible\":false,\"id\":11},\n   \n    ];\n    $scope.globals.requestApp.sellRequests = [\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"3 Kings\",\"type\":\"Edible\",\"brand\":\"MMJ AMERICA GOLDEN TRIANGLE \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":4.5,\"visible\":false,\"id\":0},\n    {\"qty\":\"400\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"20000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"707 Headband\",\"type\":\"Flower\",\"brand\":\"ACME SMOKE LLC \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":7.5,\"visible\":false,\"id\":1},\n    {\"qty\":\"550\",\"unit_of_measure\":\"Ounces\",\"asking_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Banana Candy\",\"type\":\"Concentrate\",\"brand\":\"CANNABICARE INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":9,\"visible\":false,\"id\":2},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Grape Crush\",\"type\":\"Flower\",\"brand\":\"COLORADOS BEST INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":8,\"visible\":false,\"id\":3},\n    {\"qty\":\"50\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Hempstar\",\"type\":\"Concentrate\",\"brand\":\"MED STOP LLP\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":9,\"visible\":false,\"id\":4},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Kaboom\",\"type\":\"Flower\",\"brand\":\"MILE HIGH HOLISTICS LLC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":7,\"visible\":false,\"id\":5},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"3 Kings\",\"type\":\"Edible\",\"brand\":\"MMJ AMERICA GOLDEN TRIANGLE \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":4.5,\"visible\":false,\"id\":6},\n    {\"qty\":\"400\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"20000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"707 Headband\",\"type\":\"Flower\",\"brand\":\"ACME SMOKE LLC \",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":7.5,\"visible\":false,\"id\":7},\n    {\"qty\":\"550\",\"unit_of_measure\":\"Ounces\",\"asking_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Banana Candy\",\"type\":\"Concentrate\",\"brand\":\"CANNABICARE INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":9,\"visible\":false,\"id\":8},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Grape Crush\",\"type\":\"Flower\",\"brand\":\"COLORADOS BEST INC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":8,\"visible\":false,\"id\":9},\n    {\"qty\":\"50\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"5000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Hempstar\",\"type\":\"Concentrate\",\"brand\":\"MED STOP LLP\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":9,\"visible\":false,\"id\":10},\n    {\"qty\":\"200\",\"unit_of_measure\":\"Pounds\",\"asking_price\":\"10000\",\"THC\":\"67\",\"CBD\":\"89\",\"CND\":\"44\",\"name\":\"Kaboom\",\"type\":\"Flower\",\"brand\":\"MILE HIGH HOLISTICS LLC\",\"category\":\"Hybrid\",\"abstract\":\"The 3 Kings marijuana strain, a trinity of Headband, Sour Diesel, and OG Kush, is a hybrid that relieves pain and stress without heavy sedation.\",\"rating\":7,\"visible\":false,\"id\":11},",
+			"selected",
+			"title",
+			"selected",
+			"hide",
+			"box",
+			"inbox",
+			"Inbox",
+			"inbox",
+			"Inbox",
+			"filterInbox",
+			".id",
+			"messages = ",
+			"Inbox",
+			"'-\"",
+			"create",
+			"from",
+			"message-",
+			"compose",
+			"inquire",
+			"product",
+			"strain",
+			"equest",
+			"product",
+			"account",
+			"request",
+			"to_user",
+			"strain",
+			"account",
+			"strain",
+			"Account",
+			"account",
+			"Account",
+			"AcctAppForm",
+			"accounts",
+			"Product",
+			"Account",
+			"ccount",
+			"Account",
+			"account",
+			"Account",
+			"account",
+			"Account",
+			"purchase",
+			"absolute",
+			"globa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" = ",
+			"= ",
+			"=",
+			">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.877379142198,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/goldhand/projects/ccx/ccx.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:15:51Z</date>
+		<key>actualSize</key>
+		<integer>3807</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:15:51Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:32:20Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:11:33Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>672513E5-C0D3-404C-A1F4-94B10ABE33BE</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:32:20Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/communities/locations/normandy-park/slideshow.php</string>
+		<key>originalSize</key>
+		<integer>3807</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3B5E6118-005A-4F40-8C4F-1A87E02209D2</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

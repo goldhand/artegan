@@ -1,0 +1,492 @@
+html { 
+	font-size: 100%;
+	height: 100%;  
+ }
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #562214 url(http://www.springhillseniorliving.com/artegan/images/common/pinstripe_bkgd.gif) left top; 
+	background-repeat: repeat;
+	min-height: 100%; 
+	}
+
+
+#background2 {
+	position: relative;
+	top: 0;
+	left:0;
+	z-index:0;
+	color: #EAE4CA; 
+	font-size: 0.95em; 
+	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif, "Trebuchet MS"; 
+	font-style: normal; 
+	line-height: 1.4; 
+	margin: 0;
+	padding: 0;
+	min-height: 100%; 
+	overflow:hidden; 
+	}
+
+#wrapper-shadow  { 
+	text-align: left; 
+	margin: 0 0 -9000px 0;
+	padding: 0 0 9000px 0;  
+	width: 1014px;
+	border: none;
+	color: #000;
+	min-height: 100%;  
+	}
+
+
+
+#left-col {
+	width: 210px;
+	float: left;
+	background-color: #636B01;
+	color: #EAE4CA;
+	border: solid #000;
+	border-width: 12px 8px 0 2px;
+	margin: 0 0 -9000px 0;
+	padding: 0 0 9000px 0;
+
+	}
+
+#right-col {
+	width: 790px;
+	float: right;
+	border: solid #000;
+	border-width: 12px 2px 0 2px;
+	background: #EAE4CA url(http://www.springhillseniorliving.com/artegan/images/common/canvas-pattern.jpg) left top; 
+	background-repeat: repeat;
+	margin: 0 0 -9000px 0;
+	padding: 0 0 9000px 0;
+	}
+
+#nav_image {  
+	position: relative; 
+	top: 0px; 
+	text-align:center;  
+	height: 232px;
+	background: #EAE4CA url(http://www.springhillseniorliving.com/artegan/images/common/canvas-pattern.jpg) left top;  
+	 }
+
+.L-photo {
+	border: solid #000;
+	border-width: 2px 1px 0 0;
+	float: left;
+	}
+
+.R-photo {
+	border: solid #000;
+	border-width: 2px 0 0 1px;
+	float: right;
+	}
+
+#olive-rule {
+	background-color: #A89339;
+	width: 100%;
+	height: 6px;
+	position: relative;
+	border: solid #000;
+	border-width: 3px 0 3px 0;
+	clear:both;
+	}
+
+#white-stripe {
+	position: absolute;
+	top:0;
+	bottom: 0px;
+	left: 218px;
+	z-index:4;
+	width: 2px;
+	height: 100%;
+	background-color:#fff;
+	}
+
+#shadow {
+	position: absolute;
+	top: 0;
+	bottom:0;
+	left: 1014px;
+	width: 50px;
+	height:100%
+	background color:none;
+	background: url(http://www.springhillseniorliving.com/artegan/images/common/shadow.png) left top; 
+	background-repeat: repeat-y;
+	z-index:4;
+	}
+	
+
+#black-stripe1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index:2;
+	height: 14px;
+	width: inherit;
+	background-color:#000;
+	}
+
+#black-stripe2 {
+	position: absolute;
+	top: 17px;
+	left: 0;
+	z-index:2;
+	height: 3px;
+	width: inherit;
+	background-color:#000;
+	}
+
+
+#breadcrumbs {  
+	position: relative; 
+	float:left;
+	padding: 15px 0 0 30px;
+	color: #934020;
+	font-size: 8pt; }
+
+#text-size {  
+	position: relative; 
+	float:right;
+	padding: 5px 30px 0 0; 
+	color: #000;
+	font-size: 8pt; }
+
+#content {  
+	padding: 15px 30px;
+	clear: both; }
+
+#turn-page-links {
+	padding:10px;
+	text-align:center;}
+
+a { 
+	color: #934020;
+	text-decoration: none;
+	}
+
+a:hover	{ 
+	color: #000000;
+	text-decoration: underline;	
+	}
+
+#content a { 
+	color: #934020;
+	text-decoration: none;
+	}
+
+#content a:hover	{ 
+	color: #000000;
+	text-decoration: underline;	
+	}
+
+#footer-nav { 
+	text-align: center; 
+	margin: 0; 
+	padding: 0; 
+	position: relative; bottom: 10px; 
+	width: 790px;
+	color: #636B01; }
+
+a.Bnav { 
+	color: #934020; 
+	font-size: 0.8em; 
+	text-decoration: none 
+	}
+
+a:hover.Bnav  { 
+	color: #000000;
+	text-decoration: underline;	 
+	}
+
+#copyright { 
+	color: #636B01; 
+	font-size: 0.8em; 
+	text-align: center; 
+	margin: 0; 
+	padding: 0 0 10px 0; 
+ 	}
+
+h1 { 
+	font-weight: bold; 
+	font-size: 1.4em; 
+	padding: 0 0 15px 0px;
+	margin:0;
+	color: #636B01;
+	 }
+
+h2 { 
+	font-weight: bold; 
+	font-size: 1.1em; 
+	margin:0;
+	color: #636B01;
+	padding: 0px;
+
+	 }
+
+h3 { 
+	font-weight: bold; 
+	font-size: 1em;
+	margin:0; 
+	 }
+
+
+.indent-1 {
+	padding:2px 0 0 20px;
+	margin:0;
+	}
+
+.indent-2 {
+	padding:2px 0 0 20px;
+	margin:0;}
+
+.indent-3 {
+	padding:2px 0 0 30px;
+	margin:0;}
+
+
+
+a.text-size { 
+	color: #934020; 
+	text-decoration: none; }
+
+a:hover.text-size { 
+	color: #000000; 
+	text-decoration: underline; }
+
+a img { 
+	border-width: 0; 
+	border: none;}
+
+#floatL  { 
+	margin-right: 10px; 
+	padding-top: 5px; 
+	padding-right: 0; 
+	padding-bottom: 5px; 
+	float: left }
+
+#floatR  { 
+	padding-top: 5px; 
+	padding-bottom: 5px; 
+	padding-left: 10px; 
+	float: right }
+
+#left-nav {
+	font-size: .9em; 
+	padding:0 10px 10px 0px;
+	line-height: 1.2;
+	}
+
+#left-nav a { 
+	color: #EAE4CA; 
+	text-decoration: none;
+	 }
+
+#left-nav a:hover { 
+	color: #ffffff;
+	text-decoration: underline; }
+
+#left-nav h1 { 
+	font-weight: bold; 
+	font-size: 1.5em; 
+	padding: 20px 0 0 0px;
+	margin:0;
+	 }
+
+#left-nav h2 { 
+	font-weight: bold; 
+	font-size: 1.3em; 
+	padding: 5px 0 0 10px;
+	margin:0;
+	 }
+
+#left-nav h3 { 
+	font-weight: bold; 
+	font-size: 1em;
+	padding: 5px 0 0 20px;
+	margin:0; 
+	 }
+
+#community-menu { 
+	color: #000; 
+	font-size: 0.9em; 
+	background-color: #fff; 
+	padding: 5px 15px; 
+	margin: 0 0 20px 20px;
+	position: relative; 
+	z-index: 2; 
+	width: 160px; 
+	border:2px solid #000;
+	float:right;
+	}
+
+#community-menu a { 
+	color: #934020;
+	text-decoration: none;
+	}
+
+#community-menu a:hover	{ 
+	color: #000000;
+	text-decoration: underline;	
+	}
+
+
+
+
+#left-column { 
+	background-color: #fff; 
+	position: relative; 
+	width: 200px; 
+	height: inherit; 
+	float: left }
+
+
+img.border { 
+	margin: 0; 
+	padding: 0; 
+	border: solid #000;
+	border-width: 1px;
+	float: left;
+	height:230px; }
+
+#resources-box { 
+	color: #404900; 
+	background-color: #e2e2b7; 
+	padding: 8px; 
+	width: 300px; 
+	border: solid 2px #7a8244 
+	}
+
+#request-box { 
+	color: #000; 
+	font-size: 0.85em; 
+	background-color: #D3C89C; 
+	margin-left: 10px; 
+	padding: 10px; 
+	margin: 15px 0 10px 0;
+	width: 425px; 
+	border: solid 2px #562214; 
+	}
+
+#request-box h1, #request-box h2 {
+	color: #562214;}
+
+
+
+
+ul  { list-style-type: disc; list-style-position: outside; margin: 0 0 1.5em 15px; padding-left: 10px }
+
+.sm-font {
+	font-size: 0.85em }
+
+
+table.invisible { width: 100%; height: auto; border: 0 }
+td.left-column { width: 170px }
+#right-column  { background-color: #fff; position: relative; width: 410px; height: auto; float: right }
+
+img.margin { padding: 0 0 20px; outline-width: 0 }
+a.dk_blue     { color: #934020; font-family: arial, verdana, helvetica, sans-serif; font-style: normal; text-decoration: none }
+a:hover.dk_blue  { color: #934020; font-family: arial, verdana, helvetica, sans-serif; font-style: normal; text-decoration: underline }
+#inline_list  { margin: 2em; padding: 5px; border: 0 }
+a:hover.nav { color: #fff; font-weight: bold; text-decoration: none }
+ul.blue_menu  { list-style-type: none; margin: 0; padding: 0 }
+li.blue_menu-main  { position: relative; width: 10em; float: left }
+li.pos_1
+    { display: inline; position: absolute; top: 180px; left: 30px }
+
+
+
+li.Bpos_1        { display: inline; margin: 0; padding: 0; position: relative; top: 50px; left: 200px }
+#rule-blue      { background-color: #93c7ce; margin-top: 5px; margin-bottom: 10px; width: 660px; height: 2px }
+
+
+#sizer { text-align: right; margin: 0; padding: 0; position: relative; top: 0; right: 36px; width: 700px }
+
+#white_bkgrd            { color: #000000; background-color: #fff; margin: 0; padding: 0 0 20px; position: relative; top: 0; left: 0; width: 700px; border-width: 0 }
+
+
+
+#main_nav     {  }
+
+#main_nav-index  { background-color: #934020; margin: 0; padding: 0; position: relative; z-index: 10; top: 0; right: 20px; left: 20px; width: 660px; height: inherit }
+#no_float p { position: relative; left: 15px; width: 690px }
+
+#sub_menu          { color: #934020; background-color: #ffffff; position: relative; z-index: 5; top: 4px; width: 700px; height: 2.2em; border-top: 4px solid #934020 }
+
+#anchor-links     { font-size: 0.9em; padding: 0; margin:0 0 18px; }
+#news-menu   { color: #a52d04; font-size: 0.85em; background-color: #fccdac; padding: 5px; position: relative; z-index: 2; width: 149px; border: solid 2px }
+#sub_menu a     { color: #934020; text-decoration: none }
+#sub_menu a:hover     { color: #000000 }
+#sub_menu ul    { background-color: #ffffff; list-style: none; margin: 0; padding: 0; position: absolute; top: 2px; left: 0; border: none }
+#sub_menu li     { font-size: 1em; margin: 0; padding-top: 10px; padding-right: 15px; padding-left: 15px; position: relative; left: 0; width: auto; float: left }
+#sub_menu li ul      { font-size: 1em; background-color: #ffffff; display: none; padding: 2px 2px 2px 5px; position: absolute; z-index: 6; top: 100%; left: 10px; width: 170%; border: solid 1px #93c7ce }
+#sub_menu li li   { font-size: 1em; text-align: left; display: block; padding-right: 10px; padding-left: 5px; z-index: 6; float: none }
+#sub_menu li:hover ul, #sub_menu li.over ul   { display: block; z-index: 5 }
+#blue_menu       { color: #fff; background-color: #934020; position: relative; z-index: 20; left: 20px; width: 680px; height: 27px }
+#blue_menu a     { color: #fff; text-decoration: none; background-color: #934020; z-index: 20 }
+#blue_menu ul    { background-color: #934020; list-style: none; margin: 0; padding: 0; z-index: 20; border: none }
+#relative-positioning { margin: 0; padding: 0; position: relative; bottom: 30px }
+#close-gap  { margin: 0; padding: 0 0 4px; position: relative; top: 4px }
+#close-gap-index  { margin: 0; padding: 0; position: relative; z-index: 1; bottom: 3px }
+#close-gap-none { margin: 0; padding: 0 }
+#relative-up40 { margin: 0; padding: 0; position: relative; bottom: 40px }
+table.staff  { color: #000000; font-size: 0.9em }
+table.invisible  { color: #000000; font-size: 1em }
+td.staff-L { padding-right: 15px; padding-bottom: 20px; width: 315px; vertical-align: top }
+td.staff-R { padding-bottom: 20px; padding-left: 15px; width: 315px; vertical-align: top }
+#blue_menu li li a      { color: #934020; text-decoration: none; background-color: #ffffff; display: block; padding-right: 5px; padding-left: 5px; z-index: 20 }
+#blue_menu li li a:hover   { color: #000000; text-decoration: underline; z-index: 20 }
+#blue_menu li          { font-size: 1.4em; position: relative; z-index: 20; float: left;}
+
+#blue_menu li ul          { font-size: 0.7em; background-color: #ffffff; display: none; padding: 0 0 2px; position: absolute; z-index: 20; top: 100%; left: 0; width: auto; border: solid 1px #934020 }
+#blue_menu li li         { font-size: 1em; text-align: left; display: block; padding-right: 10px; padding-left: 5px; z-index: 20; float: none }
+
+#blue_menu li:hover ul, #blue_menu li.over ul { display: block; z-index: 20 }
+#nav { z-index: 20 }
+#sub-nav { z-index: 5 }
+li#first   { text-align: left; position: relative; left: 0; width: 180px }
+li#second { text-align: left; position: relative; left: 10px; width: 250px }
+li#third { text-align: left; position: relative; left: 25px; width: 230px }
+li#indent { position: relative; left: 10px }
+li#food-indent  { list-style-type: none; position: relative; left: 30px }
+p { margin: 0 0 1em }
+ul.blue   { color: #934020; list-style-type: disc; margin: 0.5em 0 1em }
+.caption   { font-weight: bold; text-align: center; padding-top: 10px; padding-bottom: 0 }
+A.Controls:link    { color:#666666;
+                     text-decoration:none;
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+A.Controls:visited { color:#666666; text-decoration:none; 
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+A.Controls:active  { color:#666666; text-decoration:none;
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+A.Controls:hover   { color:#00FF00; text-decoration:none;
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+td.third  { padding-right: 15px; padding-left: 15px; width: auto }
+#address       { color: #934020; font-size: 0.85em; font-weight: bold; background-color: #fff3c2; padding: 5px; width: 140px; border: solid 2px #efd259 }
+
+#box-container { font-size: 0.95em; margin: 0; padding: 0; height: auto; float: left; border: solid 2px #fc6 }
+#box1 { color: #333; background-color: #f4ffc4; margin: 10px 0 10px 0; padding: 10px; border: solid 2px #fc6 }
+#box2  { color: #333; background-color: #edffc9; margin: 10px 0; padding: 10px; border: solid 2px #7dad6a }
+#box3 { color: #333; background-color: #ebfcfb; margin: 10px 0; padding: 10px; border: solid 2px #93c7ce }
+#contact        { color: #a52d04; font-size: 0.95em; font-weight: bold; background-color: #fccdac; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; width: 250px; float: right; border: solid 2px #da6f25 }
+
+#tip-box  { color: #404900; background-color: #e2e2b7; padding: 8px; width: 200px; border: solid 2px #7a8244 }
+#tip-box-wide    { color: #404900; background-color: #e2e2b7; padding: 8px; width: 275px; border: solid 2px #7a8244 }
+#submit-box { color: #404900; background-color: #e2e2b7; padding: 8px; width: 300px; border: solid 2px #7a8244 }
+#blue-box { color: #404900; background-color: #e2e2b7; padding: 4px; border: solid 2px #7a8244 }
+.contact { font-size: 1.2em; text-decoration: underline }
+.margin  { padding-right: 10px; padding-left: 10px }
+.break {
+	padding-bottom:10px;
+	margin-bottom: 10px;
+	height:1px;
+	}	

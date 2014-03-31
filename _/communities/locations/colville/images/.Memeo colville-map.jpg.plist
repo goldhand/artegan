@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:15:40Z</date>
+		<key>actualSize</key>
+		<integer>14652</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:15:40Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:31:16Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:10:54Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>A96A83E9-F5F8-4506-A64C-CC391D9722D8</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:31:16Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/communities/locations/colville/images/colville-map.jpg</string>
+		<key>originalSize</key>
+		<integer>14652</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>825C8562-A4CD-4C19-A6AF-5B3B7CB84829</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

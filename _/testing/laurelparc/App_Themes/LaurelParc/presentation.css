@@ -1,0 +1,97 @@
+/* Rainbow.Zen Presentation Base File - Jes1111 */
+body{
+
+font-family:"Geneva", Verdana, Arial, Helvetica, sans-serif;
+font-size: 13px;
+background:#c1b160 url(img/background.jpg) top left repeat-x;
+}
+
+div#content p 
+{
+	font-size:1em;
+}
+
+div#content a
+{
+   color:#26001e;
+}
+
+div#content h2,div#content h3, div#content h4, div#content p 
+{
+	padding:5px 10px;
+}
+
+div#content h2
+{
+    font-size:1.4em;
+}
+
+div#content h3
+{
+    font-size:1.2em;
+}
+
+div#content ol, div#content ul 
+{
+	padding:5px 5px 5px 40px;	 
+}
+div#textsizer a 
+{
+	color:#222;
+	text-indent:22px;
+	height:20px;
+	padding:2px 0;
+	margin-left:10px;
+	display:block;
+	
+}
+
+a img 
+{
+	border:0;
+}
+
+img.picr
+{
+    float:right;
+	display:inline;
+	border:inset #c1b160;
+	padding: 2px;
+	margin: 5px;
+} 
+
+img.picl
+{
+    float:left;
+	display:inline;
+	border:inset #c1b160;
+	padding: 2px;
+	margin: 8px;
+} 
+
+div#textsizer a#smalltext 
+{
+	background:transparent url(img/icons/silver/arrow_down.gif) center left no-repeat;
+}
+
+div#textsizer a#medtext 
+{
+	background:transparent url(img/icons/silver/arrow_up.gif) center left no-repeat;
+}
+
+div#content ul.detaillist 
+{
+	padding-left:10px;
+}
+ul.detaillist li 
+{
+	display:inline;
+	padding-right:10px;
+}
+
+fieldset legend 
+{
+	margin:10px;
+}
+
+

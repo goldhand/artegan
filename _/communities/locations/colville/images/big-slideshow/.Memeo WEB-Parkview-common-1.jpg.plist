@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:15:39Z</date>
+		<key>actualSize</key>
+		<integer>33702</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:15:39Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:31:15Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:10:54Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>D9C435AF-7088-4938-8E68-4244F4142F39</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:31:15Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/communities/locations/colville/images/big-slideshow/WEB-Parkview-common-1.jpg</string>
+		<key>originalSize</key>
+		<integer>33702</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>12177DDB-A43F-42F6-9EF9-C43AD827427A</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

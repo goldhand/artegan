@@ -1,0 +1,6 @@
+/*this is the default style.  no style applied, but there can't be zero rules in the file, so we replicate the default rule */
+
+* {
+	padding:0;
+	margin:0;
+	}

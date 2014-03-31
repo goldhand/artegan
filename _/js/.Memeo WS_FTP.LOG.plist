@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:16:49Z</date>
+		<key>actualSize</key>
+		<integer>220</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:16:49Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:32:39Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:12:10Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>C82DDFCE-EADA-45D3-8CC2-7E382E3D9F0A</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:32:39Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/js/WS_FTP.LOG</string>
+		<key>originalSize</key>
+		<integer>220</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>87DA6D06-8615-4ECE-AB03-CDB046FF23F0</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

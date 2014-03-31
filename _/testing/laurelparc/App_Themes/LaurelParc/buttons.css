@@ -1,0 +1,15 @@
+/* Module Buttons */
+ul.controls 
+{
+	width:150px;
+	list-style:none;
+	float:right;
+	display:inline;
+}
+
+ul.controls li 
+{
+	float:left;
+	display:inline;
+	
+}

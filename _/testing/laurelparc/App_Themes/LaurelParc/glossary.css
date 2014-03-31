@@ -1,0 +1,16 @@
+dl.glossary dt span, dl.glossary dd span
+{
+	display:inline !important;
+	float:none;
+	width:auto;
+}
+
+dl.glossary dt 
+{
+	font-weight:bold;
+}
+
+dl.glossary dd 
+{
+	padding-left:20px;
+}

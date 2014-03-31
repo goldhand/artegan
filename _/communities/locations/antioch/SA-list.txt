@@ -1,0 +1,32 @@
+<ul class="sm-font">
+									
+									
+									<li><b>Dining</b> Our <a class="dk_blue" href="../../../wellness/culinary-experience.php">Culinary Experience</a> includes a delicious breakfast and standard fare or Chef Specials for lunch and dinner. <a class="dk_blue" href="dining-menu.php">Sample Menu</a></li>
+									<li><b>Bistro</b> for a light meal or when you're on the go</li>
+
+									<li><b>Housekeeping and linen services</b> weekly for your convenience</li>
+									<li><b>Scheduled transportation</b> for pre-scheduled appointments, shopping and outings
+</li>
+									<li><b>Emergency communication system</b> for your peace of mind</li>
+									<li><b>All utilities</b> included in monthly rent except cable and telephone</li>
+									
+									<li><b>24-hour staffing</b> to respond to your needs</li>
+									
+									<li><b>Personalized care services</b> are additional and based on an individual health assessment</li>
+									<li><b>Private dining room</b> for family get-togethers and celebrations</li>
+									<li><b>Exercise Facility</b> so you it's easy to get and stay healthy</li>
+									<li><b>Lounge and Game Room</b> for your enjoyment, from a friendly game of cribbage to Texas hold'em, you'll find fun here</li>
+
+									<li><b>Activities Center</b> Multiple activities and events weekly so you can stretch your body, learn something new, enjoy your neighbors, appreciate every moment</li>
+									
+									<li><b>Beauty Salon and Barber Shop</b> for your convenience</li>
+									<li><b>Whirlpool Spa</b> to help you relax and rejuvenate</li>
+									
+									<li><b>Complimentary wireless internet</b> so you can stay connected to family and friends</li>
+									
+									
+									<li><b>Conservatory</b> for growing your favorite flowers or maybe fresh herbs</li>
+									
+									<li><b>Move Theatre</b> for your viewing entertainment</li>
+									
+								</ul>

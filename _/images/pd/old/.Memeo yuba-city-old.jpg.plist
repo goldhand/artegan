@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:16:47Z</date>
+		<key>actualSize</key>
+		<integer>29750</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:16:47Z</date>
+		<key>createDate</key>
+		<date>2007-10-26T23:18:08Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:12:10Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>1DF51BF0-59C2-4DA3-8DE7-E2E4173CD8CD</string>
+		<key>lastModifiedDate</key>
+		<date>2007-10-26T23:18:08Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/images/pd/old/yuba-city-old.jpg</string>
+		<key>originalSize</key>
+		<integer>29750</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>943868237</integer>
+				<key>fileType</key>
+				<integer>1246774599</integer>
+				<key>id</key>
+				<string>5AA6CAEE-060C-4D14-A0C9-FB5B60CA7012</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

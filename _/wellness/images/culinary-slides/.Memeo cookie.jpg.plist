@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:17:14Z</date>
+		<key>actualSize</key>
+		<integer>31974</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:17:14Z</date>
+		<key>createDate</key>
+		<date>2007-08-22T14:33:12Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:12:31Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>786D7768-3060-49C6-9D9E-98FFAE0C8378</string>
+		<key>lastModifiedDate</key>
+		<date>2007-08-22T14:33:12Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/wellness/images/culinary-slides/cookie.jpg</string>
+		<key>originalSize</key>
+		<integer>31974</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>9C84C184-5401-46F5-9B1F-698561C32408</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

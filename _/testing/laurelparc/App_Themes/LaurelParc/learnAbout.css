@@ -1,0 +1,116 @@
+/*-------------------------------------------*/
+/*             Learn About                   */
+/*-------------------------------------------*/
+
+div.learnabout ul.MainCategoryList 
+{
+	float:left;
+	display:inline;
+	width:260px;	
+	list-style:none;
+	
+	margin-bottom:5px;
+		
+}
+
+div.learnabout p.clear 
+{
+	clear:both;
+}
+
+div.articlecontrols 
+{
+	display:block;
+	margin-left:10px;
+	height:17px;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+div.articlecontrols h4.pagetitle 
+{
+	float:left;
+	display:inline;
+	width:500px;
+	font-weight:bold;
+	padding-left:0 !important;
+}
+div.articlecontrols span.prev 
+{
+	width:55px;
+	padding-right:10px;
+	margin-right:10px;
+	float:right;
+	display:inline;
+	text-align:right;
+	border-right:1px solid #ccc;
+}
+
+div.articlecontrols span.next 
+{
+	width:34px;
+	float:right;
+	display:inline;
+	text-align:left;
+	
+}
+
+div.latoc 
+{
+	padding-top:10px;
+}
+
+
+ul.MainCategoryList li a 
+{
+	height:35px;
+	display:block;
+	padding:15px 0 0 55px;	
+}
+
+ul.MainArticleList li a, ul.MainSubcategoryList li a 
+{
+	height:20px;
+	display:block;
+	padding:0 0 0 25px;	
+}
+ul.MainCategoryList li, ul.MainArticleList li, ul.MainSubcategoryList li 
+{
+	margin-bottom:5px;
+	list-style:none;
+}
+
+
+
+
+ul.MainCategoryList li.housing a { background:transparent url(../../learnaboutcache/icon/icon_housing.gif) center left no-repeat;}
+ul.MainCategoryList li.education a { background:transparent url(../../learnaboutcache/icon/icon_education.gif) center left no-repeat;}
+ul.MainCategoryList li.communitylife a { background:transparent url(../../learnaboutcache/icon/icon_communitylife.gif) center left no-repeat;}
+ul.MainCategoryList li.health a { background:transparent url(../../learnaboutcache/icon/icon_health.gif) center left no-repeat;}
+ul.MainCategoryList li.civilrights a { background:transparent url(../../learnaboutcache/icon/icon_civilrights.gif) center left no-repeat;}
+ul.MainCategoryList li.assistivetechnology a { background:transparent url(../../learnaboutcache/icon/icon_assistivetech.gif) center left no-repeat;}
+ul.MainCategoryList li.financialbenefit a { background:transparent url(../../learnaboutcache/icon/icon_financialbenefits.gif) center left no-repeat;}
+ul.MainCategoryList li.employment a { background:transparent url(../../learnaboutcache/icon/icon_employment.gif) center left no-repeat;}
+ul.MainCategoryList li.transportation a { background:transparent url(../../learnaboutcache/icon/icon_transportation.gif) center left no-repeat;}
+ul.MainCategoryList li.category a { background:transparent url(../../learnaboutcache/icon/icon_category.gif) center left no-repeat;}
+
+
+ul.MainArticleList li.article a { background:transparent url(../../learnaboutcache/icon/article.gif) center left no-repeat;}
+ul.MainArticleList li.html a { background:transparent url(../../learnaboutcache/icon/html.gif) center left no-repeat;}
+ul.MainArticleList li.pdf a { background:transparent url(../../learnaboutcache/icon/pdf.gif) center left no-repeat;}
+ul.MainArticleList li.word a { background:transparent url(../../learnaboutcache/icon/word.gif) center left no-repeat;}
+ul.MainArticleList li.powerpoint a { background:transparent url(../../learnaboutcache/icon/powerpoint.gif) center left no-repeat;}
+ul.MainArticleList li.excel a { background:transparent url(../../learnaboutcache/icon/excel.gif) center left no-repeat;}
+ul.MainArticleList li.link a { background:transparent url(../../learnaboutcache/icon/link.gif) center left no-repeat;}
+
+ul.MainSubcategoryList li.subcategory a { background:transparent url(../../learnaboutcache/icon/subcategory.gif) center left no-repeat;}
+
+
+ul li a.AdminLink 
+{
+	background:none !important;
+	display:inline;
+	padding-left:5px;
+	
+}

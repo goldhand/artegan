@@ -1,0 +1,67 @@
+body, body div, body p, body li, body dd, body dt	{
+
+	font-size:	large;
+	line-height:1.1em;
+}
+
+div#masthead h1 
+{
+	font-size:x-large;
+}
+
+div#masthead h2 
+{
+
+	font-size:medium;
+}
+
+
+
+div#search
+{
+	font-size:medium;
+	
+}
+div#masthead
+{
+	
+}
+div#navcol  
+{
+	padding-top:0px; 
+	
+}
+
+
+ul#site_options li 
+{
+	font-size:0.85em !important;
+}
+
+
+ul#site_options 
+{
+	right:63px;
+}
+
+div#crumbdate 
+{
+	height:18px;
+}
+
+/* logo image replacement */
+
+div#logo h1 
+{
+	text-indent:-9999px;
+	background: transparent url(img/logolarge.gif) top left no-repeat;
+}
+
+div#logo h1 a 
+{
+	display:block;
+	width:145px;
+	height:162px !important;
+}
+
+/* end image replacement */

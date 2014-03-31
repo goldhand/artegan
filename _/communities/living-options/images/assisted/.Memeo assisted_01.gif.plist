@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2009-10-16T18:15:36Z</date>
+		<key>actualSize</key>
+		<integer>1192</integer>
+		<key>attributeModDate</key>
+		<date>2009-10-16T18:15:36Z</date>
+		<key>createDate</key>
+		<date>2008-10-13T00:28:55Z</date>
+		<key>creationDate</key>
+		<date>2009-10-31T02:10:46Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>E75A3755-4D54-4C3C-BE26-A6C3AE44E528</string>
+		<key>lastModifiedDate</key>
+		<date>2008-10-13T00:28:55Z</date>
+		<key>originalPath</key>
+		<string>/Volumes/Emergency/freelance/Artegan/web design/artegan/communities/living-options/images/assisted/assisted_01.gif</string>
+		<key>originalSize</key>
+		<integer>1192</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>36EC58A2-3E3A-4826-B0EB-880385901C41</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>80</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

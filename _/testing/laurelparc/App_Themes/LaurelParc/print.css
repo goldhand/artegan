@@ -1,0 +1,33 @@
+/* Rainbow.Zen Presentation Base File - Jes1111 */
+body{
+font-family: arial, verdana, Helvetica, sans-serif;
+font-size: small;
+ 
+
+}
+
+
+
+div#content p 
+{
+	font-size:1em;
+}
+
+div#content h2,div#content h3, div#content h4, div#content p 
+{
+	padding:5px 10px;
+}
+
+
+
+a img 
+{
+	border:0;
+}
+
+
+div#textsizer, div#navcol, div#search, ul#site_options, div#skip  
+{
+	display:none;
+}
+

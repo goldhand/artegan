@@ -1,0 +1,163 @@
+/* forms.css */
+
+fieldset.forms
+{
+	width: 550px;
+	padding: 10px;
+	margin: 10px 0;
+	border:1px solid #ccc;
+}
+
+fieldset
+{
+    font-weight:bold;
+	padding:10px;
+	border: 1px solid #ccc;
+}
+
+fieldset ul li, fieldset ol li{
+    padding-top:5px;
+	list-style:none;
+	padding-bottom:10px;
+	font-weight:200;
+}
+
+fieldset ul li.spacer{
+    padding:0;
+	list-style:none;
+}
+
+fieldset.forms ol, fieldset.forms ul
+{
+	list-style-type: none;
+	padding: 0px 10px 0px 20px;
+}
+
+
+fieldset.forms ol li
+{
+	padding:2px;
+	clear:left;
+}
+
+fieldset.forms ol li ol
+{
+	padding: 5px;
+	border: solid 1px #999;
+}
+
+fieldset label
+{
+	width:160px;
+	float:left;
+	display:inline;
+}
+
+fieldset.forms label.radio, fieldset.forms label.ckbx, fieldset.forms span.radio label, fieldset.forms span.ckbx label 
+{
+	float:none;
+	width:auto;
+	
+	padding:2px 6px 2px 6px;
+}
+
+fieldset.forms input.radio
+{
+	margin-left: 10px;
+}
+
+fieldset.forms label.txtarea
+{
+	display:block;
+	width:auto;
+	padding-top:10px;
+}
+
+fieldset textarea
+{
+	margin:10px 0;
+	width: 50%;
+	height: 20%;
+	clear: left;
+	display: block;
+}
+ 
+fieldset.forms span
+{
+	padding-bottom:5px;
+}
+
+fieldset.forms span.explain
+{
+	display:block;
+	font-style:italic;
+	color:#444;
+	font-size:0.9em;
+}
+
+fieldset.forms span.VAMRequiredFieldMarker, fieldset.forms span.VAMErrorText, fieldset.forms span.VAMErrorText span 
+{
+	display:inline;
+}
+
+
+
+/* navigation for the my account tabs */
+div.choicelist div ul li 
+{
+	border:1px solid #ccc;
+	padding:5px;
+	background:#ccc;
+}
+
+div.choicelist div ul li.selected 
+{
+	border-bottom:1px solid #fff ;
+	background:#fff;
+}
+ 
+div.choicelist div ul li a
+{
+	
+	
+
+	width:40px;
+	text-decoration:none;
+	
+}
+
+div.choicelist div ul li 
+{
+	margin-right:5px;
+	display:inline;
+	list-style:none;
+}
+
+div.choicelist div ul
+{
+	border-bottom:1px solid #ccc;
+}
+
+div.choicelist 
+{
+	
+}
+
+ul#EmpAppTop
+{
+   width:500px;
+}
+
+ul#EmpAppTop li
+{
+    width:500px;
+	margin:5px 0 0 0;
+}
+
+li.availability label
+{
+	width:90px;
+	float:right;
+	display:inline;
+}
+	
