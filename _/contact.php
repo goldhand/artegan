@@ -38,6 +38,10 @@ with (thisform)
 }
 
 }
+$(document).ready(function(){
+    $("#robot-field-1").hide();
+});
+//document.getElementById('robot-field-1')
 </script>
 
 <?php
@@ -79,6 +83,11 @@ $strSelected = "";
 if ($blnSubmitted) {
 	$theForm = new Form_Validator($arrCrit);
 	if ($theForm->isValid()) {
+		if($_POST['robot-field'] != ''){
+    		echo "It appears you are a bot!";
+    		// honeypot was filled, robot submission
+		}
+		else{
 		require_once('PEAR.php');
 		require_once('email/mm_email.class.php'); //mm
 //mm		require_once('sh_includes/Mail/mail.php');
@@ -143,6 +152,7 @@ if ($blnSubmitted) {
 		$returnStatus = $message->send(null,$headers,$msgBody);
 		$returnStatus = $message->mail(null,$headers,$msgBody);
  */
+	}
 	}
 } else {
 	$strReferer = $_SERVER['HTTP_REFERER'];
@@ -321,6 +331,10 @@ if ($blnSubmitted) {
 				<b>Message</b><br>
 				<textarea name="message" id="message" cols="50" rows="5" style="width:354px;height:67px" tabindex="4" ></textarea>
 			</p>
+			<div id="robot-field-1">
+    			<label for='robot-field'>Leave blank</label>
+    			<input type='text' name='robot-field'>
+			</div>
 			<p>
 				<input type="submit" value="Send" />
 			</p>
