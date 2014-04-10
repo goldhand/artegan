@@ -13,7 +13,7 @@
 		<script type="text/javascript" src="js/cookieLib.js"></script>
 		<script type="text/javascript" src="js/common.js"></script>
 
-
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 			<script type="text/javascript">
 function validate_email(field,alerttxt)
 {
@@ -257,7 +257,7 @@ if ($blnSubmitted) {
 
 
 
-			<form action="<?php echo($PHP_SELF); ?>"onsubmit="return validate_form(this)" method="post">
+			<form action="." onsubmit="return validate_form(this)" method="post">
 			<input type="hidden" name="submitted" id="submitted" value="true" />
 			<input type="hidden" name="required" value="email">
 
