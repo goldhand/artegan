@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -12,8 +8,7 @@
 		<meta name="generator" content="Adobe GoLive">
 		<script type="text/javascript" src="js/cookieLib.js"></script>
 		<script type="text/javascript" src="js/common.js"></script>
-
-<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 			<script type="text/javascript">
 function validate_email(field,alerttxt)
 {
@@ -38,6 +33,7 @@ with (thisform)
 }
 
 }
+// Will
 $(document).ready(function(){
     $("#robot-field-1").hide();
 });
@@ -83,6 +79,7 @@ $strSelected = "";
 if ($blnSubmitted) {
 	$theForm = new Form_Validator($arrCrit);
 	if ($theForm->isValid()) {
+		// Will
 		if($_POST['robot-field'] != ''){
     		echo "It appears you are a bot!";
     		// honeypot was filled, robot submission
@@ -257,7 +254,7 @@ if ($blnSubmitted) {
 
 
 
-			<form action="." onsubmit="return validate_form(this)" method="post">
+			<form action="<?php echo($PHP_SELF); ?>" onsubmit="return validate_form(this)" method="post">
 			<input type="hidden" name="submitted" id="submitted" value="true" />
 			<input type="hidden" name="required" value="email">
 
@@ -331,6 +328,7 @@ if ($blnSubmitted) {
 				<b>Message</b><br>
 				<textarea name="message" id="message" cols="50" rows="5" style="width:354px;height:67px" tabindex="4" ></textarea>
 			</p>
+			<!--will-->
 			<div id="robot-field-1">
     			<label for='robot-field'>Leave blank</label>
     			<input type='text' name='robot-field'>

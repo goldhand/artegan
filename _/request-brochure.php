@@ -43,6 +43,11 @@ $strSelected = "";
 if ($blnSubmitted) {
 	$theForm = new Form_Validator($arrCrit);
 	if ($theForm->isValid()) {
+		if($_POST['robot-field'] != ''){
+    		echo "It appears you are a bot!";
+    		// honeypot was filled, robot submission
+		}
+		else {
 		require_once('PEAR.php');
 		require_once('email/mm_email.class.php'); //mm
 //mm		require_once('Mail.php');
@@ -101,6 +106,7 @@ if ($blnSubmitted) {
 		}
 		$returnStatus = $message->send(null,$headers,$msgBody);
  */
+		}
 	}
 } else {
 	$strReferer = $_SERVER['HTTP_REFERER'];
@@ -126,8 +132,12 @@ if ($blnSubmitted) {
 <script type="text/javascript" src="http://www.artegan.com/js/cookieLib.js"></script>
 <script type="text/javascript" src="http://www.artegan.com/js/common.js"></script>
 <script type="text/javascript" src="http://www.artegan.com/js/request-form-script.js"></script>
-
-
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#robot-field-1").hide();
+});
+</script>
 
 
 
@@ -270,7 +280,10 @@ if ($blnSubmitted) {
 
 
 				</div>
-
+			<div id="robot-field-1">
+    			<label for='robot-field'>Leave blank</label>
+    			<input type='text' name='robot-field'>
+			</div>
 
 				</form>
 
