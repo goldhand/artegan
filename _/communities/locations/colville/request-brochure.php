@@ -43,6 +43,12 @@ $strSelected = "";
 if ($blnSubmitted) {
 	$theForm = new Form_Validator($arrCrit);
 	if ($theForm->isValid()) {
+				//will
+	if($_POST['robot-field'] != ''){
+    		echo "It appears you are a bot!";
+    		// honeypot was filled, robot submission
+		}
+		else {
 		require_once('PEAR.php');
 		require_once('../../../email/mm_email.class.php'); //mm
 //mm		require_once('Mail.php');
@@ -100,7 +106,7 @@ if ($blnSubmitted) {
 		}
 		$returnStatus = $message->send(null,$headers,$msgBody);
  */
-	}
+	}}
 } else {
 	$strReferer = $_SERVER['HTTP_REFERER'];
 	$arrReferer = explode('/',$strReferer);
@@ -259,7 +265,10 @@ if ($blnSubmitted) {
 
 			</tr></table>
 
-
+			<div id="robot-field-1">
+    			<label for='robot-field'>Leave blank</label>
+    			<input type='text' name='robot-field'>
+			</div>
 
 
 
